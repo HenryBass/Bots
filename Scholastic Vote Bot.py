@@ -1,3 +1,9 @@
+#########################
+
+# This may not work anymore when the 2020 election has ended.
+
+##########################
+
 from selenium import webdriver
 import pyautogui
 import time

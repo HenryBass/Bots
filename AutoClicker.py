@@ -5,7 +5,7 @@ print("You will have 5 seconds to position your mouse before the clicker starts.
 input("Start?")
 
 time.sleep(5)
+pyautogui.PAUSE = 0
 
 while True:
     pyautogui.click()
-    pyautogui.PAUSE = 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000001
